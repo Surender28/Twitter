@@ -1,0 +1,74 @@
+C:\Users\Nspira\Downloads\new-tweet-main (1)\new-tweet-main\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Nspira\Downloads\new-tweet-main (1)\new-tweet-main\bin\Debug\net6.0\appsettings.json
+C:\Users\Nspira\Downloads\new-tweet-main (1)\new-tweet-main\bin\Debug\net6.0\TWITTER_NEW.exe
+C:\Users\Nspira\Downloads\new-tweet-main (1)\new-tweet-main\bin\Debug\net6.0\TWITTER_NEW.deps.json
+C:\Users\Nspira\Downloads\new-tweet-main (1)\new-tweet-main\bin\Debug\net6.0\TWITTER_NEW.runtimeconfig.json
+C:\Users\Nspira\Downloads\new-tweet-main (1)\new-tweet-main\bin\Debug\net6.0\TWITTER_NEW.dll
+C:\Users\Nspira\Downloads\new-tweet-main (1)\new-tweet-main\bin\Debug\net6.0\ref\TWITTER_NEW.dll
+C:\Users\Nspira\Downloads\new-tweet-main (1)\new-tweet-main\bin\Debug\net6.0\TWITTER_NEW.pdb
+C:\Users\Nspira\Downloads\new-tweet-main (1)\new-tweet-main\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\Nspira\Downloads\new-tweet-main (1)\new-tweet-main\bin\Debug\net6.0\Dapper.dll
+C:\Users\Nspira\Downloads\new-tweet-main (1)\new-tweet-main\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Nspira\Downloads\new-tweet-main (1)\new-tweet-main\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nspira\Downloads\new-tweet-main (1)\new-tweet-main\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nspira\Downloads\new-tweet-main (1)\new-tweet-main\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nspira\Downloads\new-tweet-main (1)\new-tweet-main\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nspira\Downloads\new-tweet-main (1)\new-tweet-main\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nspira\Downloads\new-tweet-main (1)\new-tweet-main\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Nspira\Downloads\new-tweet-main (1)\new-tweet-main\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Nspira\Downloads\new-tweet-main (1)\new-tweet-main\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Nspira\Downloads\new-tweet-main (1)\new-tweet-main\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Nspira\Downloads\new-tweet-main (1)\new-tweet-main\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Nspira\Downloads\new-tweet-main (1)\new-tweet-main\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nspira\Downloads\new-tweet-main (1)\new-tweet-main\obj\Debug\net6.0\TWITTER_NEW.csproj.AssemblyReference.cache
+C:\Users\Nspira\Downloads\new-tweet-main (1)\new-tweet-main\obj\Debug\net6.0\TWITTER_NEW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nspira\Downloads\new-tweet-main (1)\new-tweet-main\obj\Debug\net6.0\TWITTER_NEW.AssemblyInfoInputs.cache
+C:\Users\Nspira\Downloads\new-tweet-main (1)\new-tweet-main\obj\Debug\net6.0\TWITTER_NEW.AssemblyInfo.cs
+C:\Users\Nspira\Downloads\new-tweet-main (1)\new-tweet-main\obj\Debug\net6.0\TWITTER_NEW.csproj.CoreCompileInputs.cache
+C:\Users\Nspira\Downloads\new-tweet-main (1)\new-tweet-main\obj\Debug\net6.0\TWITTER_NEW.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nspira\Downloads\new-tweet-main (1)\new-tweet-main\obj\Debug\net6.0\TWITTER_NEW.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nspira\Downloads\new-tweet-main (1)\new-tweet-main\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Nspira\Downloads\new-tweet-main (1)\new-tweet-main\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Nspira\Downloads\new-tweet-main (1)\new-tweet-main\obj\Debug\net6.0\scopedcss\bundle\TWITTER_NEW.styles.css
+C:\Users\Nspira\Downloads\new-tweet-main (1)\new-tweet-main\obj\Debug\net6.0\TWITTER_NEW.csproj.CopyComplete
+C:\Users\Nspira\Downloads\new-tweet-main (1)\new-tweet-main\obj\Debug\net6.0\TWITTER_NEW.dll
+C:\Users\Nspira\Downloads\new-tweet-main (1)\new-tweet-main\obj\Debug\net6.0\ref\TWITTER_NEW.dll
+C:\Users\Nspira\Downloads\new-tweet-main (1)\new-tweet-main\obj\Debug\net6.0\TWITTER_NEW.pdb
+C:\Users\Nspira\Downloads\new-tweet-main (1)\new-tweet-main\obj\Debug\net6.0\TWITTER_NEW.genruntimeconfig.cache
+C:\Twitter app front and back\new-tweet-main (1)\new-tweet-main\bin\Debug\net6.0\appsettings.Development.json
+C:\Twitter app front and back\new-tweet-main (1)\new-tweet-main\bin\Debug\net6.0\appsettings.json
+C:\Twitter app front and back\new-tweet-main (1)\new-tweet-main\bin\Debug\net6.0\TWITTER_NEW.exe
+C:\Twitter app front and back\new-tweet-main (1)\new-tweet-main\bin\Debug\net6.0\TWITTER_NEW.deps.json
+C:\Twitter app front and back\new-tweet-main (1)\new-tweet-main\bin\Debug\net6.0\TWITTER_NEW.runtimeconfig.json
+C:\Twitter app front and back\new-tweet-main (1)\new-tweet-main\bin\Debug\net6.0\TWITTER_NEW.dll
+C:\Twitter app front and back\new-tweet-main (1)\new-tweet-main\bin\Debug\net6.0\TWITTER_NEW.pdb
+C:\Twitter app front and back\new-tweet-main (1)\new-tweet-main\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Twitter app front and back\new-tweet-main (1)\new-tweet-main\bin\Debug\net6.0\Dapper.dll
+C:\Twitter app front and back\new-tweet-main (1)\new-tweet-main\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Twitter app front and back\new-tweet-main (1)\new-tweet-main\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Twitter app front and back\new-tweet-main (1)\new-tweet-main\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Twitter app front and back\new-tweet-main (1)\new-tweet-main\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Twitter app front and back\new-tweet-main (1)\new-tweet-main\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Twitter app front and back\new-tweet-main (1)\new-tweet-main\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Twitter app front and back\new-tweet-main (1)\new-tweet-main\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Twitter app front and back\new-tweet-main (1)\new-tweet-main\bin\Debug\net6.0\Npgsql.dll
+C:\Twitter app front and back\new-tweet-main (1)\new-tweet-main\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Twitter app front and back\new-tweet-main (1)\new-tweet-main\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Twitter app front and back\new-tweet-main (1)\new-tweet-main\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Twitter app front and back\new-tweet-main (1)\new-tweet-main\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Twitter app front and back\new-tweet-main (1)\new-tweet-main\obj\Debug\net6.0\TWITTER_NEW.csproj.AssemblyReference.cache
+C:\Twitter app front and back\new-tweet-main (1)\new-tweet-main\obj\Debug\net6.0\TWITTER_NEW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Twitter app front and back\new-tweet-main (1)\new-tweet-main\obj\Debug\net6.0\TWITTER_NEW.AssemblyInfoInputs.cache
+C:\Twitter app front and back\new-tweet-main (1)\new-tweet-main\obj\Debug\net6.0\TWITTER_NEW.AssemblyInfo.cs
+C:\Twitter app front and back\new-tweet-main (1)\new-tweet-main\obj\Debug\net6.0\TWITTER_NEW.csproj.CoreCompileInputs.cache
+C:\Twitter app front and back\new-tweet-main (1)\new-tweet-main\obj\Debug\net6.0\TWITTER_NEW.MvcApplicationPartsAssemblyInfo.cs
+C:\Twitter app front and back\new-tweet-main (1)\new-tweet-main\obj\Debug\net6.0\TWITTER_NEW.MvcApplicationPartsAssemblyInfo.cache
+C:\Twitter app front and back\new-tweet-main (1)\new-tweet-main\obj\Debug\net6.0\staticwebassets.build.json
+C:\Twitter app front and back\new-tweet-main (1)\new-tweet-main\obj\Debug\net6.0\staticwebassets.development.json
+C:\Twitter app front and back\new-tweet-main (1)\new-tweet-main\obj\Debug\net6.0\scopedcss\bundle\TWITTER_NEW.styles.css
+C:\Twitter app front and back\new-tweet-main (1)\new-tweet-main\obj\Debug\net6.0\TWITTER_NEW.csproj.CopyComplete
+C:\Twitter app front and back\new-tweet-main (1)\new-tweet-main\obj\Debug\net6.0\TWITTER_NEW.dll
+C:\Twitter app front and back\new-tweet-main (1)\new-tweet-main\obj\Debug\net6.0\refint\TWITTER_NEW.dll
+C:\Twitter app front and back\new-tweet-main (1)\new-tweet-main\obj\Debug\net6.0\TWITTER_NEW.pdb
+C:\Twitter app front and back\new-tweet-main (1)\new-tweet-main\obj\Debug\net6.0\TWITTER_NEW.genruntimeconfig.cache
+C:\Twitter app front and back\new-tweet-main (1)\new-tweet-main\obj\Debug\net6.0\ref\TWITTER_NEW.dll
